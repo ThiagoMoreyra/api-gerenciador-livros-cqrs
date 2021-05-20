@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jx+qdMAM8d7H96OJmCejJBFQCy8lxb/hRnDqnuv7AfrD9qgqOQbg+OyHYsRji8YNIihrrxjY72GATleHGvEdlw==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\gerenciador-livros-api-cqrs\\gerenciador-livros-api-cqrs\\src\\Gerenciador.Livros.Domain\\Gerenciador.Livros.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

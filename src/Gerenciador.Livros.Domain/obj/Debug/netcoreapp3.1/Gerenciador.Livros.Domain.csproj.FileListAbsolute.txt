@@ -1,0 +1,9 @@
+C:\repo\gerenciador-livros-api-cqrs\gerenciador-livros-api-cqrs\src\Gerenciador.Livros.Domain\obj\Debug\netcoreapp3.1\Gerenciador.Livros.Domain.AssemblyInfoInputs.cache
+C:\repo\gerenciador-livros-api-cqrs\gerenciador-livros-api-cqrs\src\Gerenciador.Livros.Domain\obj\Debug\netcoreapp3.1\Gerenciador.Livros.Domain.AssemblyInfo.cs
+C:\repo\gerenciador-livros-api-cqrs\gerenciador-livros-api-cqrs\src\Gerenciador.Livros.Domain\obj\Debug\netcoreapp3.1\Gerenciador.Livros.Domain.csproj.CoreCompileInputs.cache
+C:\repo\gerenciador-livros-api-cqrs\gerenciador-livros-api-cqrs\src\Gerenciador.Livros.Domain\bin\Debug\netcoreapp3.1\Gerenciador.Livros.Domain.deps.json
+C:\repo\gerenciador-livros-api-cqrs\gerenciador-livros-api-cqrs\src\Gerenciador.Livros.Domain\bin\Debug\netcoreapp3.1\Gerenciador.Livros.Domain.dll
+C:\repo\gerenciador-livros-api-cqrs\gerenciador-livros-api-cqrs\src\Gerenciador.Livros.Domain\bin\Debug\netcoreapp3.1\Gerenciador.Livros.Domain.pdb
+C:\repo\gerenciador-livros-api-cqrs\gerenciador-livros-api-cqrs\src\Gerenciador.Livros.Domain\obj\Debug\netcoreapp3.1\Gerenciador.Livros.Domain.csprojAssemblyReference.cache
+C:\repo\gerenciador-livros-api-cqrs\gerenciador-livros-api-cqrs\src\Gerenciador.Livros.Domain\obj\Debug\netcoreapp3.1\Gerenciador.Livros.Domain.dll
+C:\repo\gerenciador-livros-api-cqrs\gerenciador-livros-api-cqrs\src\Gerenciador.Livros.Domain\obj\Debug\netcoreapp3.1\Gerenciador.Livros.Domain.pdb
